@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that explores how smoking behaviour relates to patient health indicators. The report includes organ views (Heart, Kidney, Liver, Lungs) and a **Damaged / Healthy** toggle.
 
-![Dashboard preview](dashboard-preview.png)
+![Dashboard preview](dashboard preview.png)
 
 ## Project Overview
 The dashboard summarises **193 patients** (average age **54.86**, average BMI **30.09**). It lets the viewer compare smoking status, smoking intensity and health risk factors across age groups and genders.
